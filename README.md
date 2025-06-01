@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Enoc @Xcipher3
+- 👋 Hi, I’m Enock Manwari @Xcipher3
 - 👀 I’m interested in web development, Artificial Intelligence 
 - 🌱 I’m currently learning Zetech University BS Information Technology 
 - 💞️ I’m looking to collaborate on web dev and AI projects
